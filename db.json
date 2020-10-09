@@ -33,6 +33,30 @@
 			"color": "yellow",
 			"addition": "+32",
 			"reason": "The Force"
-		}
+		},
+		 {
+			"teacher": "Ali Baba",
+			"color": "red",
+			"addition": "-10",
+			"reason": "afkijken bij topo"
+		},
+		 {
+			"teacher": "Nelson Mandela",
+			"color": "blue",
+			"addition": "+10",
+			"reason": "Wereldvrede"
+		},
+		 {
+			"teacher": "Arend Rensink",
+			"color": "red",
+			"addition": "+99999",
+			"reason": "Engels praten"
+		},
+		 {
+			"teacher": "Ron",
+			"color": "yellow",
+			"addition": "-50",
+			"reason": "UPPAAL misbruiken"
+		},
 	]
 }
